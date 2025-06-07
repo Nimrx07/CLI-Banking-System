@@ -1,0 +1,2 @@
+10003 John Doe             A 00100.00 NP
+00000 END_OF_FILE          A 00000.00 NP

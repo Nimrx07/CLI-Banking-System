@@ -1,0 +1,9 @@
+login
+standard
+Jane Doe
+Transfer
+23456
+300
+10002
+logout
+exit

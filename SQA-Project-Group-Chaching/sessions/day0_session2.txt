@@ -1,0 +1,5 @@
+login
+standard
+Jane Doe
+logout
+exit

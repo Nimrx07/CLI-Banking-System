@@ -1,0 +1,8 @@
+Welcome to Bank ATM CLI. Enter commands (login, deposit, withdraw, transfer, paybill, create, delete, disable, changeplan, logout, exit):
+Logged in as admin.
+Executing changeplan...
+Account payment plan updated successfully.
+Invalid command.
+Transaction log:
+08_Jane Doe            _23456_000000.0SP
+00_END_OF_SESSION_______00000_00000000__

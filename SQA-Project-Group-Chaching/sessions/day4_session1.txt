@@ -1,0 +1,8 @@
+Login
+Standard
+Jane Doe
+deposit
+23456
+300
+logout
+exit

@@ -1,0 +1,8 @@
+Login
+Standard
+Jane Doe
+paybill
+EC
+40
+logout
+exit
